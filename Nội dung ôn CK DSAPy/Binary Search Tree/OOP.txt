@@ -1,0 +1,6 @@
+Ma sv :  2 Ho ten :  Pham Van D Ma lop :  K62 Diem tb :  2.8
+Ma sv :  3 Ho ten :  Tran Van B Ma lop :  K62 Diem tb :  2.5
+Ma sv :  5 Ho ten :  Nguyen Van A Ma lop :  K62 Diem tb :  3.0
+Ma sv :  6 Ho ten :  Hoang Thi E Ma lop :  K62 Diem tb :  3.2
+Ma sv :  7 Ho ten :  Le Thi C Ma lop :  K62 Diem tb :  3.8
+Ma sv :  8 Ho ten :  Vu Van F Ma lop :  K62 Diem tb :  3.7
